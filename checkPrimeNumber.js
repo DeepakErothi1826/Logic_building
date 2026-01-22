@@ -17,4 +17,4 @@ PrimeNumber =(num) =>{
     }
 }
 
-console.log(PrimeNumber(11));
+console.log(PrimeNumber(14));
